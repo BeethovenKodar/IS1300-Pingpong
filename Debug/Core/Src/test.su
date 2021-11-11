@@ -1,0 +1,4 @@
+test.c:17:6:Test_program	8	static
+test.c:27:6:test_led	16	static
+test.c:42:6:test_score	16	static
+test.c:59:6:test_buttons	16	static

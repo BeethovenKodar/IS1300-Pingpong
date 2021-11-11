@@ -1,0 +1,6 @@
+pingpong_functions.c:24:6:show_points	24	static
+pingpong_functions.c:42:6:led_on	16	static
+pingpong_functions.c:51:6:led_off	16	static
+pingpong_functions.c:60:6:l_hit	8	static
+pingpong_functions.c:71:6:r_hit	8	static
+pingpong_functions.c:83:6:valid_lednr	16	static
